@@ -2,7 +2,14 @@
 
 This project is the application we build throughout the [pluralsight course Angular Material](https://www.pluralsight.com/courses/angular-material).
 
-## Live Demo
+## Try it out in stackblitz 
 
-The latest version of the master branch can be found running live at [https://stackblitz.com/github/anilsoni85/angularmaterial/], feel free to check it out.
+Stackblitz [https://stackblitz.com/github/anilsoni85/angularmaterial/].
 
+###Demo
+
+Ag-Grid https://stackblitz.com/github/anilsoni85/angularmaterial/demo/ag-grid/
+
+Syncfusion https://stackblitz.com/github/anilsoni85/angularmaterial/demo/syncfusion-grid/
+
+Contact Manager - https://stackblitz.com/github/anilsoni85/angularmaterial/
