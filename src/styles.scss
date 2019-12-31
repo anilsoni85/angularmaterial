@@ -1,4 +1,6 @@
-// @import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+@import "~@ag-grid-enterprise/all-modules/dist/styles/ag-grid.scss";
+@import "~@ag-grid-enterprise/all-modules/dist/styles/ag-theme-balham/sass/ag-theme-balham.scss";
 
 @import '~@angular/material/theming';
 @include mat-core();
